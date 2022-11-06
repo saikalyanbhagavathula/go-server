@@ -1,5 +1,5 @@
 # go-server
-##Simple Http server which listens on port 8080 with 2 handler functions
+#Simple Http server which listens on port 8080 with 2 handler functions
 
 
 There are three files in html folder 
